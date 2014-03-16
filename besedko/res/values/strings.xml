@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Besedko</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_training">Trening</string>
+    <string name="menu_choose_wordlist">Nabor besed</string>
+    <string name="menu_game">Tekma</string>
+    <string name="menu_settings">Nastavitve</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
